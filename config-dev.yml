@@ -1,3 +1,2 @@
 config:
-  info: dev branch, springcloud-config/config-dev.yml version=1
-https://github.com/cheermorning/springcloud-config/blob/dev/config-dev.yml
+  info: dev branch, springcloud-config/config-dev.yml version=12
